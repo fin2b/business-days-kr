@@ -12,9 +12,9 @@
   "bugs": {
     "url": "http://github.com/fin2b/business-days-kr/issues"
   },
-  "main": "./lib/business-days-kr",
+  "main": "./lib/calendar",
   "dependencies": {
-    "moment": "^2.19.3",
+    "moment-business-days": "^1.0.0",
     "request": "^2.81.0",
     "lodash": "^4.0.0"
   },
