@@ -1,0 +1,24 @@
+{
+  "name": "business-days-kr",
+  "version": "0.1.0",
+  "description": "Korean business day module",
+  "author": { "name": "fin2b", "email": "dev@fin2b.com", "url": "http://fin2b.com" },
+  "contributors": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fin2b/business-days-kr.git"
+  },
+  "bugs": {
+    "url": "http://github.com/fin2b/business-days-kr/issues"
+  },
+  "main": "./lib/business-days-kr",
+  "dependencies": {
+    "moment": "^2.19.3",
+    "request": "^2.81.0",
+    "lodash": "^4.0.0"
+  },
+  "engines": { "node": ">= 8.9.1" },
+  "keywords": ["business-day", "holiday", "korean", "biz"],
+  "license": "MIT"
+}
